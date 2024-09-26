@@ -36,7 +36,7 @@ Change <ip of codespace> to your ip
 
 ### OR
 
-Created a new server on MongoDB compass and imported the data using shell or Atlas
+Created a new server using MongoDB Atlas for free and imported the data using shell or Compass
 
 
 ## Part 2
@@ -190,13 +190,13 @@ LIMIT 1;
 1. To use the same system as I have, you can simply just create a codespace on the main branch, install 'docker' extension and 'MongoDB for VS code' extension.
 2. Open the terminal and run the above command given in part 1.
 3. Create a connection string and using that connection string connect to MongoDB
-4. Import the data and run the queries
+4. Import the data and run the queries using playground
 
 OR 
 
 1. Open MongoDB Atlas
 2. Connect to the server using the connection string shown at the time of creation of the server (Remember the password)
-3. Run the queries using MongoDB Atlas
+3. Run the queries using MongoDB Compass
 4. Create a view for further reference
 
 
